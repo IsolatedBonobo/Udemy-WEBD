@@ -1,0 +1,16 @@
+.one{
+    width: 25%;
+    float: left;
+}
+.two{
+    width: 40%;
+    float: left;
+}
+.three{
+    width: 25%;
+    float: left;
+}
+.container{
+    display: flex;
+    gap: 10px;
+}

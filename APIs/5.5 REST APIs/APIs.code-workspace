@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "APIs",
+			"path": "../../../OneDrive/Desktop/WEB-D/APIs"
+		},
+		{
+			"path": "../../5.2+JSON/5.2 JSON"
+		},
+		{
+			"path": "../../5.3+Axios/5.3 Axios"
+		},
+		{
+			"path": "../../5.4+API+Authentication/5.4 API Authentication"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

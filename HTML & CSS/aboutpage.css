@@ -1,0 +1,11 @@
+body{
+    border: 5px solid #B04759;
+    background-color: rgb(139, 172, 170);
+    color: rgb(231, 97, 97);
+    font-family: 'Libre Baskerville', serif;
+    padding: 20px;
+}
+.ptag{
+    color: #B04759;
+    
+}
